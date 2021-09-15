@@ -1,0 +1,21 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "first codecademy mocha project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mocha",
+    "codecademy",
+    "unit",
+    "test",
+    "testing"
+  ],
+  "author": "FT",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.1.1"
+  }
+}
